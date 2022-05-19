@@ -1,0 +1,2 @@
+# javaSwingCarManage
+一个使用javaswing和mysql设计的车辆管理系统，主要有登录和增删改查功能
